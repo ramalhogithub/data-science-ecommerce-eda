@@ -1,0 +1,10 @@
+# Arquivos de ambiente e cache do Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Configurações locais do VS Code / Antigravity
+.vscode/
+.antigravity/
